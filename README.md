@@ -14,9 +14,13 @@ I am good at Jenkins to complete the devops automation process construction.
 I am familiar with GCP, GKE related technologies.
 
 🔭 I’m currently working on HSBC
+
 🌱 I’m currently learning Cloud related knownledge like GCP ACP GKE Terraform Asible etc....
+
 📫 How to reach me: Wechat 953422128
+
 😄 Pronouns: Work happy life happy
+
 <!--
 **whoaremine/whoaremine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
