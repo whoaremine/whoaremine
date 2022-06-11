@@ -13,7 +13,7 @@ I am good at Jenkins to complete the devops automation process construction.
 
 I am familiar with GCP, GKE related technologies.
 
-🔭 I’m currently working on HSBC
+🔭 I’m currently working on a bank 
 
 🌱 I’m currently learning Cloud related knownledge like GCP ACP GKE Terraform Asible etc....
 
