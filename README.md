@@ -1,4 +1,6 @@
 ### Hi there 👋
+This is Kane, So exiciting to have a place to record my software enginner .
+My major is computer science and technology. I started working as a JAVA programmer, and now I am a full-stack engineer, good at building enterprise-level applications using Java Html CSS Javascript ecosystem, good at Docker K8s and tomcat WAS Waiting for various containers to complete the project release, good at Jenkins to complete the devops automation process construction, familiar with GCP, GKE related technologies
 
 <!--
 **whoaremine/whoaremine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
